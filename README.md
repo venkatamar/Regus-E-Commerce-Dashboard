@@ -1,3 +1,5 @@
+![Dashboard_powerBi](https://github.com/user-attachments/assets/8acb8a91-e7c3-44fb-9a2c-0dd254598196)
+
 # Regus-E-Commerce-Dashboard
 Regus-Ecommerce-Dashboard
 
