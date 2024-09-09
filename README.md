@@ -11,9 +11,14 @@ Project Overview The Sales Performance Dashboard includes the following features
     
 Data Sources The data used in this dashboard is hypothetical and intended for demonstration purposes. It includes:
     
-    Sales transactions Customer information Product details Regional sales data
+    Sales transactions 
+    Customer information 
+    Product details 
+    Regional sales data
     
 Getting Started To view and interact with the dashboard:
     
-    Ensure you have Microsoft Power BI Desktop installed. You can download it here. Clone this repository to your local machine: Bash: git clone https://github.com/Chathuryab/Regus-Ecommerce- 
-    Dashboard.git Open the Sales.pbix file in Power BI Desktop.
+    Ensure you have Microsoft Power BI Desktop installed. You can download it here. 
+    Clone this repository to your local machine: 
+                git clone https://github.com/Chathuryab/Regus-Ecommerce- Dashboard.
+    git Open the Sales.pbix file in Power BI Desktop.
